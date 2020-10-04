@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-10-04T21:26:24Z" name="Default suite" finished-at="2020-10-04T21:27:24Z" duration-ms="59645">
+    <groups>
+    </groups>
+    <test started-at="2020-10-04T21:26:24Z" name="Default test" finished-at="2020-10-04T21:27:24Z" duration-ms="59645">
+      <class name="testProject.optiimTestCase">
+        <test-method is-config="true" signature="setUpTest()[pri:0, instance:testProject.optiimTestCase@2f112965]" started-at="2020-10-04T21:26:24Z" name="setUpTest" finished-at="2020-10-04T21:26:24Z" duration-ms="138" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpTest -->
+        <test-method signature="f()[pri:0, instance:testProject.optiimTestCase@2f112965]" started-at="2020-10-04T21:26:24Z" name="f" finished-at="2020-10-04T21:27:24Z" duration-ms="59490" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+      </class> <!-- testProject.optiimTestCase -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
