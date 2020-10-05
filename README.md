@@ -2,7 +2,7 @@
 
 Test Scenario
 
-1. Facebook ile login olacak (facebook'ta login değilken facebook butonuna basıldığında, facebook kullanıcı pass istemeli.)
+1. Facebook ile login olacak (facebook'ta login değilken login butonuna basıldığında, facebook kullanıcı pass istemeli.)
 
 2. <http://www.n11.com/> sitesine gelecek ve anasayfanın açıldığını onaylayacak
 
