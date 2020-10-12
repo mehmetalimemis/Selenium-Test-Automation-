@@ -2,16 +2,16 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2020-10-04T21:26:24Z" name="Default suite" finished-at="2020-10-04T21:27:24Z" duration-ms="59645">
+  <suite started-at="2020-10-12T08:36:40Z" name="Default suite" finished-at="2020-10-12T08:37:46Z" duration-ms="66187">
     <groups>
     </groups>
-    <test started-at="2020-10-04T21:26:24Z" name="Default test" finished-at="2020-10-04T21:27:24Z" duration-ms="59645">
+    <test started-at="2020-10-12T08:36:40Z" name="Default test" finished-at="2020-10-12T08:37:46Z" duration-ms="66187">
       <class name="testProject.optiimTestCase">
-        <test-method is-config="true" signature="setUpTest()[pri:0, instance:testProject.optiimTestCase@2f112965]" started-at="2020-10-04T21:26:24Z" name="setUpTest" finished-at="2020-10-04T21:26:24Z" duration-ms="138" status="PASS">
+        <test-method is-config="true" signature="setUpTest()[pri:0, instance:testProject.optiimTestCase@2f112965]" started-at="2020-10-12T08:36:40Z" name="setUpTest" finished-at="2020-10-12T08:36:40Z" duration-ms="180" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUpTest -->
-        <test-method signature="f()[pri:0, instance:testProject.optiimTestCase@2f112965]" started-at="2020-10-04T21:26:24Z" name="f" finished-at="2020-10-04T21:27:24Z" duration-ms="59490" status="PASS">
+        <test-method signature="f()[pri:0, instance:testProject.optiimTestCase@2f112965]" started-at="2020-10-12T08:36:40Z" name="f" finished-at="2020-10-12T08:37:46Z" duration-ms="65991" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- f -->

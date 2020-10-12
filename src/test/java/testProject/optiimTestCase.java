@@ -83,6 +83,7 @@ public class optiimTestCase {
 		extentReport.info("N11 sitesine yonlendirme yapildi ve anasayfanin acildigi onaylandi.");
 
 //	    Close the message
+		Thread.sleep(2000L);
 		driver.findElement(By.className("closeBtn")).click();
 
 //	    Open the sign in page
@@ -172,6 +173,7 @@ public class optiimTestCase {
 		extentReport.info("Favorilerimdeki urunun 3.urun oldugu onaylandi.");
 
 //		Delete my favourites
+		driver.findElement(By.xpath("/html/body/div[4]/div/div/button/span")).click();
 		driver.findElement(By.xpath("//span[@class='deleteProFromFavorites']")).click();
 		Thread.sleep(2000L);
 

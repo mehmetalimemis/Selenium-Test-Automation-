@@ -5,7 +5,7 @@
     <classes>
       <class name="testProject.optiimTestCase">
         <methods>
-          <include name="setUpTestReport"/>
+          <include name="setUpTest"/>
           <include name="f"/>
         </methods>
       </class> <!-- testProject.optiimTestCase -->
