@@ -175,9 +175,9 @@ public class optiimTestCase {
 //		Delete my favourites
 		driver.findElement(By.xpath("/html/body/div[4]/div/div/button/span")).click();
 		driver.findElement(By.xpath("//span[@class='deleteProFromFavorites']")).click();
-		Thread.sleep(2000L);
 
 // 		info(details)
+		Thread.sleep(2000L);
 		extentReport.info("Urun favorilerim listesinden cikarildi.");
 
 //		Check my favourites list
