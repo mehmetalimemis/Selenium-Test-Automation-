@@ -173,7 +173,6 @@ public class optiimTestCase {
 		extentReport.info("Favorilerimdeki urunun 3.urun oldugu onaylandi.");
 
 //		Delete my favourites
-		driver.findElement(By.xpath("/html/body/div[4]/div/div/button/span")).click();
 		driver.findElement(By.xpath("//span[@class='deleteProFromFavorites']")).click();
 
 // 		info(details)
